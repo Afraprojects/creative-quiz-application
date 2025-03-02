@@ -17,3 +17,5 @@ description about my project:During my internship, I developed an interactive qu
 One of the challenges I faced was ensuring smooth question transitions without reloading the page, which I solved using dynamic DOM manipulation. Managing the timer was another hurdle, as I needed to ensure the quiz ended automatically when time ran out. I implemented a function to stop the quiz and display the final score when the countdown reached zero. Additionally, I refined the user experience by adjusting button placements, adding hover effects, and ensuring a responsive design.
 
 This project significantly improved my JavaScript skills, particularly in event handling and DOM updates. Moving forward, I plan to enhance the quiz by adding difficulty levels, a leaderboard system, sound effects, and more question categories to make it even more engaging. Overall, this internship project was a valuable learning experience, giving me hands-on exposure to frontend web development while allowing me to create something interactive and fun
+
+*output*:![Image](https://github.com/user-attachments/assets/e498dc63-402b-478d-8468-bd8ad33a0101)
